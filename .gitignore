@@ -1,9 +1,4 @@
 node_modules/
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
-dist/public/bundle.js
-dist/public/bundle.js.map
-dist/public/styles.css
-dist/public/styles.css.map
+public/dist/
+.env.test
+.env.development
